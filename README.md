@@ -1,3 +1,10 @@
-# 📃 To do list 
+# 📃 to do list
+Projeto de uma lista de afazeres
 
-Small project to practice my react skills
+# Instruções
+- Clone esse repositório e execute `npm install` para baixar as dependências do projeto. Em seguida execute `npm start` para rodar a aplicação. O projeto irá rodar em `http://localhost:3000`.
+
+# Stack
+- React
+- HTML
+- CSS
